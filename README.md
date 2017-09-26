@@ -5,7 +5,7 @@
 
 The main purpose of this project is to increase campaign efficiency by identifying the main factors that affect the success of a campaign.  Also by predicting whether the campaign will be successful to a certain client, namely, whether the client will subscribe a term deposit. 
 
-
+![](images/image2.png)
 
 Figure 01: Cross table
 
@@ -24,6 +24,8 @@ Since there is large amount of Data, data preparation is difficult. However if u
 According to barplot for credit default, it is  highly skewed towards NO, this shall be removed from further analysis. 
 According to k=1;
 
+![](images/image6.png)
+
 
 Table 01: K  values
 
@@ -32,17 +34,20 @@ validation data set. The optimum k is in between 170-220. (see R plot.pdf)
 
 k=5
 
+![](images/image5.png)
 
 k=25
 
-
+![](images/image3.png)
 
 k=75
 
+![](images/image4.png)
 
 
 k=178
 
+![](images/image1.png)
 
 
 1.3)  Address any other concerns you might have 
